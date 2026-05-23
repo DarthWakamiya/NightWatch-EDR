@@ -45,11 +45,11 @@ GUARD_HOTKEY = keyboard.Key.f12
 # Folders to monitor for file activity
 # Add or remove paths as needed
 MONITORED_FOLDERS = [
-    os.path.expanduser("~/OneDrive/Desktop"),
-    os.path.expanduser("~/OneDrive/Documents"),
+    os.path.expanduser("~/Desktop"),
+    os.path.expanduser("~/Documents"),
     os.path.expanduser("~/Downloads"),
-    os.path.expanduser("~/OneDrive/Pictures"),
-    os.path.expanduser("~/Videos"), 
+    os.path.expanduser("~/Pictures"),
+    os.path.expanduser("~/Videos"),  
 ]
 
 # How often to check active window (seconds)
@@ -249,7 +249,7 @@ def on_press(key):
 def main():
     print("""
 ╔══════════════════════════════════════════╗
-║       PC INTRUDER GUARD v2.0             ║
+║             NightWatch EDR               ║
 ╚══════════════════════════════════════════╝
   [F12]    → Toggle Guard Mode ON / OFF
   [Ctrl+C] → Exit
