@@ -147,13 +147,13 @@ When Guard Mode is ON, all activity is monitored and alerts are sent to Telegram
 ## Screenshots
 
 ### 📲 Telegram Alert
-![Telegram Alert](telegram alert.png)
+![Telegram Alert](telegram-alert.png)
 
 ### ⚡ n8n Workflow
-![n8n Workflow](n8n workflow.png)
+![n8n Workflow](n8n-workflow.png)
 
 ### 🖥️ Terminal Output
-![Terminal Output](terminal output.png)
+![Terminal Output](terminal-output.png)
 
 ---
 
