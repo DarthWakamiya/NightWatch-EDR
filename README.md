@@ -64,7 +64,7 @@ git clone https://github.com/AllMightyLethal/NightWatch-EDR.git
 ### 2. Install Dependencies
 
 ```bash
-pip install pynput requests pygetwindow watchdog
+pip install -r requirements.txt
 ```
 
 ### 3. Create a Telegram Bot
