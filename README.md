@@ -1,6 +1,6 @@
 # PC Intruder Guard
 
-PC Intruder Guard is a personal endpoint monitoring system that runs silently in the background on your PC. Any suspicious activity someone touching the mouse, opening an application, or accessing files triggers an instant notification to your Telegram.
+PC Intruder Guard known as NightWatch EDR is a personal endpoint monitoring system that runs silently in the background on your PC. Any suspicious activity someone touching the mouse, opening an application, or accessing files triggers an instant notification to your Telegram.
 
 This project implements Host-based Monitoring and Security Automation (SOAR) concepts on a personal scale using Python and n8n.
 
