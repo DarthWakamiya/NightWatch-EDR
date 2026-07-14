@@ -4,7 +4,7 @@ NightWatchEDR is a personal endpoint monitoring system that runs silently in the
 opening an application, or accessing files triggers an instant
 notification to your Telegram.
 
-This project implements Host based Monitoring and Security Automation (SOAR) concepts on a personal scale using Python and n8n.
+This project implements Host Intrusion Detection System (HIDS) based Monitoring and Security Automation (SOAR) concepts on a personal scale using Python and n8n.
 
 ---
 
