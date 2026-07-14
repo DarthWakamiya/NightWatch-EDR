@@ -1,6 +1,6 @@
-# PC Intruder Guard
+# NightWatchEDR
 
-PC Intruder Guard is a personal endpoint monitoring system that runs silently in the background on your PC. Any suspicious activity such as someone touching the mouse,
+NightWatchEDR is a personal endpoint monitoring system that runs silently in the background on your PC. Any suspicious activity such as someone touching the mouse,
 opening an application, or accessing files triggers an instant
 notification to your Telegram.
 
